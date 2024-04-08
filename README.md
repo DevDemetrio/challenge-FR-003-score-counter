@@ -88,6 +88,7 @@ Você será bem avaliado se usar:
 
 ### :pushpin: Requisitos adicionais <a name="id01.2.4"></a>
 
+
 <br />
 
 # :camera_flash: Screenshots <a name="id02"></a>
