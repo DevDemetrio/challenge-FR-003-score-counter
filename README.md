@@ -96,15 +96,21 @@ Você será bem avaliado se usar:
 
 ## :iphone: Mobile design
 
-![Mobile Design](./presentation/mobile.png)
+
+![projeto-mobile](https://github.com/DevDemetrio/challenge-FR-003-score-counter/assets/81098797/8fe6078d-4d93-4943-8b00-7c8e4836b809)
+
 
 ## :iphone: Tablets design
 
-![Tablets Design](./presentation/tablet.png)
+
+![projeto-tablet](https://github.com/DevDemetrio/challenge-FR-003-score-counter/assets/81098797/c2cdfcb4-ad79-46c7-a72e-40d7de69816b)
+
 
 ## :desktop_computer: Desktop design
 
-![Tablets Design](./presentation/tablet.png)
+
+![projeto-desktop](https://github.com/DevDemetrio/challenge-FR-003-score-counter/assets/81098797/f0fd8490-1b55-465b-8a29-ff91e26df067)
+
 
 ## :desktop_computer: Resultado final
 
